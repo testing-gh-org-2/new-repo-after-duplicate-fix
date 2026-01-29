@@ -21,7 +21,10 @@
     "trim-newlines": "3.0.0",
     "path-parse": "1.0.6",
     "set-value": "3.0.2",
-    "ansi-regex": "5.0.0"
+    "ansi-regex": "5.0.0",
+    "getobject": "0.1.0",
+    "netmask": "1.0.6",
+    "just-safe-set": "2.1.0"
   },
   "devDependencies": {
     "marked": "0.7.0",
